@@ -1,4 +1,5 @@
 import streamlit as st
+import bardapi
 from bardapi import Bard
 import json
 import os
